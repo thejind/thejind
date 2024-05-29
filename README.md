@@ -12,4 +12,4 @@ I am a game developer and designer specialized in Unreal Engine. <br>With expert
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thejind&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thejind&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
